@@ -50,13 +50,15 @@ Explore station-wise mean depth to water table interactively:
 
 ```text
 jammu-groundwater-analysis/
-├── 01_jammu_groundwater_analysis.ipynb   # End-to-end Google Colab analysis notebook
-├── outputs/
-│   ├── data/
-│   │   └── jammu_gwl_clean.csv           # Cleaned Jammu district station dataset
-│   ├── figures/
-│   │   ├── fig1_seasonal_water_level_jammu.png
-│   │   └── fig3_spatial_depth_jammu.png
-│   └── jammu_groundwater_map.html        # Interactive Folium station map
-├── requirements.txt
+│
+├── data/
+│   ├── jammu_gwl_clean.csv
+│   └── jammu_gwq_clean.csv
+│
+├── figures/
+│   ├── fig1_seasonal_water_level_jammu.png
+│   └── fig3_spatial_depth_jammu.png
+│
+├── jammu_groundwater_map.html
+│
 └── README.md
