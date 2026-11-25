@@ -63,8 +63,9 @@ jammu-groundwater-analysis/
 │   ├── fig1_seasonal_water_level_jammu.png
 │   └── fig3_spatial_depth_jammu.png
 │
-├──
+├── 01_jammu_groundwater_analysis.ipynb
 |
 ├── jammu_groundwater_map.html
 │
-└── README.md
+├── README.md
+└── requirements.txt
