@@ -22,16 +22,18 @@ An exploratory hydrogeological analysis of groundwater depth, seasonal fluctuati
 ## Visual Outputs
 
 ### 1. Seasonal Water-Table Depth & Monsoon Recharge
-![Seasonal groundwater depth and monsoon rise in Jammu](outputs/figures/fig1_seasonal_water_level_jammu.png)
+
+![Seasonal groundwater depth and monsoon rise in Jammu](figures/fig1_seasonal_water_level_jammu.png)
 
 ### 2. Spatial Gradient of Groundwater Depth
-![Spatial gradient of groundwater depth across Jammu District](outputs/figures/fig3_spatial_depth_jammu.png)
+
+![Spatial gradient of groundwater depth across Jammu District](figures/fig3_spatial_depth_jammu.png)
 
 ### 3. Interactive Station Map
-Explore station-wise mean depth to water table (`m bgl`) interactively on an Esri WorldGrayCanvas basemap:
-👉 **[Open Interactive Jammu Groundwater Map](https://YOUR-USERNAME.github.io/jammu-groundwater-analysis/outputs/jammu_groundwater_map.html)**
 
----
+Explore station-wise mean depth to water table interactively:
+
+[Open Interactive Jammu Groundwater Map](jammu_groundwater_map.html)
 
 ## Methodology & Data QA Pipeline
 
