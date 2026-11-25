@@ -1,4 +1,3 @@
-# jammu-groundwater-analysis
 # Spatio-Temporal Groundwater Level & Monsoon Recharge Analysis — Jammu District (J&K)
 
 An exploratory hydrogeological analysis of groundwater depth, seasonal fluctuation, and aquifer recharge across **Jammu District, Jammu & Kashmir**, built in Python using open monitoring records from the **Central Ground Water Board (CGWB)** via the National Water Data Portal (NWDP).
