@@ -33,7 +33,7 @@ An exploratory hydrogeological analysis of groundwater depth, seasonal fluctuati
 
 Explore station-wise mean depth to water table interactively:
 
-[Open Interactive Jammu Groundwater Map](jammu_groundwater_map.html)
+[🌍 Open Interactive Jammu Groundwater Map](https://owais-geo.github.io/jammu-groundwater-analysis/jammu_groundwater_map.html)
 
 ## Methodology & Data QA Pipeline
 
