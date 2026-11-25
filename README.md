@@ -40,7 +40,7 @@ Explore station-wise mean depth to water table interactively:
 1. **Automated Schema Standardisation:** Dynamic column matching and date parsing (`dayfirst=True`) to handle irregular government portal headers.
 2. **Quality Control & Deduplication:** Removed missing timestamps and implausible depth records, and collapsed same-day repeat station measurements by taking daily means per `(station, date)`.
 3. **Seasonal Classification:** Grouped CGWB quarterly rounds into Winter (Jan), Pre-Monsoon (May), Monsoon (Aug), and Post-Monsoon (Nov).
-4. 4. **Seasonal Fluctuation Analysis:** Computed paired station-year pre-monsoon (May) minus post-monsoon (November) water-level change as:
+4. **Seasonal Fluctuation Analysis:** Computed paired station-year pre-monsoon (May) minus post-monsoon (November) water-level change as:
    $$\Delta h = \text{Depth}_{\text{Pre-Monsoon}} - \text{Depth}_{\text{Post-Monsoon}}$$
    Positive $\Delta h$ represents a **measured seasonal water-table rise**, used here as a hydraulic indicator of monsoon recharge rather than a direct estimate of volumetric recharge (which would require aquifer-specific yield, $S_y$, under the Water-Table Fluctuation method: $R = S_y \cdot \Delta h$).
 
